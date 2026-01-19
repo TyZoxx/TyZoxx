@@ -11,7 +11,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ED9121?style=for-the-badge&logo=safari&logoColor=white)](https://victorgillet.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-012169?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorgillet)
-[![Email](https://img.shields.io/badge/Email-014421?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@victorgillet.dev)
 
 </div>
 

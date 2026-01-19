@@ -1,53 +1,78 @@
 <div align="center">
-  
+
 # Victor Gillet
 
-**Engineering Student in IT & Telecommunications**  
-IMT Nord Europe • Kersia International
+### Engineering Student in IT & Telecommunications
 
-[![Portfolio](https://img.shields.io/badge/victorgillet.dev-ED9121?style=for-the-badge&logoColor=white)](https://victorgillet.dev)
+📍 IMT Nord Europe — Lille, France  
+💼 Apprenticeship at Kersia International
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ED9121?style=for-the-badge&logo=safari&logoColor=white)](https://victorgillet.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-012169?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorgillet)
+[![Email](https://img.shields.io/badge/Email-014421?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@victorgillet.dev)
 
 </div>
 
 ---
 
-### 🌐 Networks & Infrastructure
+## 👨‍💻 About Me
 
-![Cisco](https://img.shields.io/badge/Cisco-012169?style=flat-square&logo=cisco&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet-72191B?style=flat-square&logo=fortinet&logoColor=white)
-![Palo Alto](https://img.shields.io/badge/Palo%20Alto-ED9121?style=flat-square&logo=paloaltonetworks&logoColor=white)
-![Stormshield](https://img.shields.io/badge/Stormshield-014421?style=flat-square)
+I'm a French engineering student specialized in **IT & Telecommunications**, currently pursuing my degree at **IMT Nord Europe** while working as an IT Support Technician at **Kersia International**.
 
-### 🖥️ Systems & Cloud
+My focus areas include network infrastructure, cybersecurity, and system administration. I enjoy designing secure and efficient IT environments.
 
-![Linux](https://img.shields.io/badge/Linux-ED9121?style=flat-square&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-012169?style=flat-square&logo=windows&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-012169?style=flat-square&logo=microsoftazure&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-014421?style=flat-square&logo=microsoft&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-72191B?style=flat-square&logo=vmware&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-ED9121?style=flat-square&logo=proxmox&logoColor=black)
+---
 
-### 💻 Development
+## 🛠️ Technical Skills
 
-![React](https://img.shields.io/badge/React-012169?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-014421?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-ED9121?style=flat-square&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-72191B?style=flat-square&logo=javascript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-012169?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-014421?style=flat-square&logo=powershell&logoColor=white)
+### Networks & Security
 
-### 🔐 Security
+![Cisco](https://img.shields.io/badge/Cisco-012169?style=for-the-badge&logo=cisco&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-012169?style=for-the-badge&logo=fortinet&logoColor=white)
+![Palo Alto](https://img.shields.io/badge/Palo%20Alto-012169?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-012169?style=for-the-badge&logo=wireshark&logoColor=white)
 
-![Wireshark](https://img.shields.io/badge/Wireshark-012169?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-72191B?style=flat-square)
-![Cryptography](https://img.shields.io/badge/Cryptography-ED9121?style=flat-square&logo=letsencrypt&logoColor=black)
-![CTF](https://img.shields.io/badge/CTF-014421?style=flat-square&logo=hackthebox&logoColor=white)
+### Systems & Cloud
+
+![Linux](https://img.shields.io/badge/Linux-014421?style=for-the-badge&logo=linux&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-014421?style=for-the-badge&logo=windows&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-014421?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-014421?style=for-the-badge&logo=vmware&logoColor=white)
+
+### Development
+
+![React](https://img.shields.io/badge/React-ED9121?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-ED9121?style=for-the-badge&logo=typescript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-ED9121?style=for-the-badge&logo=python&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-ED9121?style=for-the-badge&logo=gnubash&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TyZoxx&show_icons=true&theme=default&hide_border=true&bg_color=FDFFF5&title_color=012169&icon_color=ED9121&text_color=121213)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TyZoxx&layout=compact&hide_border=true&bg_color=FDFFF5&title_color=012169&text_color=121213)
+
+</div>
+
+---
+
+## 🎓 Education
+
+| Period | Degree | School |
+|--------|--------|--------|
+| 2024 - Present | Engineering Degree in IT & Telecom | IMT Nord Europe |
+| 2022 - 2024 | BUT Networks & Telecommunications | IUT Saint-Malo |
 
 ---
 
 <div align="center">
-  
+
 *Networks, cybersecurity, systems — my playground.*
 
 </div>

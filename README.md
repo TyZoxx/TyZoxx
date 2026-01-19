@@ -50,18 +50,6 @@ My focus areas include network infrastructure, cybersecurity, and system adminis
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TyZoxx&show_icons=true&theme=default&hide_border=true&bg_color=FDFFF5&title_color=012169&icon_color=ED9121&text_color=121213)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TyZoxx&layout=compact&hide_border=true&bg_color=FDFFF5&title_color=012169&text_color=121213)
-
-</div>
-
----
-
 ## 🎓 Education
 
 | Period | Degree | School |
